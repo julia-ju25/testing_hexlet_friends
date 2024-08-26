@@ -1,4 +1,4 @@
-Мое участие в open-source проекте:
+# Мое участие в open-source проекте:
 Мной был протестирован проект [hexlet-friends](https://friends.hexlet.io/) по [тест-кейсам](https://github.com/julia-ju25/testing_hexlet_friends/blob/main/test-cases.pdf) в программе ***Allure***.   
 Были заведены баг-репорты на обнаруженные дефекты.
 Проведено регрессионное тестирование по закрытым issues. 
