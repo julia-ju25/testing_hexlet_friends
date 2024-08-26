@@ -1,6 +1,6 @@
 # Мое участие в open-source проекте:
 Мной был протестирован проект [hexlet-friends](https://friends.hexlet.io/) по [тест-кейсам](https://github.com/julia-ju25/testing_hexlet_friends/blob/main/test-cases.pdf) в программе ***Allure***.   
-Были заведены [баг-репорты]([https://friends.hexlet.io/](https://github.com/julia-ju25/testing_hexlet_friends/blob/main/bugreports.yml)) на обнаруженные дефекты.
+Были заведены [баг-репорты]([https://friends.hexlet.io/](https://github.com/julia-ju25/testing_hexlet_friends/blob/main/bugreports.yml) на обнаруженные дефекты.
 Проведено регрессионное тестирование по закрытым issues. 
 
 # Hexlet-friends
